@@ -2,7 +2,7 @@
 
 ## Contextualização
 
-Neste experimento fiz com que o o LED_BUILTIN = 13 piscasse.
+Neste experimento fiz com que o arduino manipulasse um led.
 
 ## Lista de componentes:
 
