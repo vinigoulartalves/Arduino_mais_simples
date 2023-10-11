@@ -11,7 +11,7 @@ Neste experimento fiz com que o arduino manipulasse um led.
 
 ## Esquema do projeto
 
-![Esquema do projeto](esquema_projeto.JPG)
+![Esquema do projeto](esquema_projeto.png)
 
 ## Projeto no Tinkercad
 
