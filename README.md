@@ -6,8 +6,8 @@ Neste experimento fiz com que o arduino manipulasse um led.
 
 ## Lista de componentes:
 
-– Arduíno UNO R3
-– Um cabo de conexão USB
+- Arduíno UNO R3
+- Um cabo de conexão USB
 
 ## Esquema do projeto
 
